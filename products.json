@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Đe Rèn 50kg",
+    "category": "Đe",
+    "price": "1.200.000 ₫",
+    "specs": ["Khối lượng: 50 kg", "Chất liệu: Thép carbon cao"],
+    "description": "Đe rèn chuyên nghiệp, trọng lượng 50kg, phù hợp cho các công việc rèn và sửa chữa kim loại. Sản phẩm đã qua sử dụng nhưng được tân trang lại sạch sẽ.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Đe Rèn 100kg",
+    "category": "Đe",
+    "price": "2.000.000 ₫",
+    "specs": ["Khối lượng: 100 kg", "Chất liệu: Thép carbon cao"],
+    "description": "Đe rèn công nghiệp, trọng lượng 100kg, phù hợp cho các công việc rèn lớn. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Đe Rèn 200kg",
+    "category": "Đe",
+    "price": "3.500.000 ₫",
+    "specs": ["Khối lượng: 200 kg", "Chất liệu: Thép carbon cao"],
+    "description": "Đe rèn lớn, trọng lượng 200kg, phù hợp cho các công việc rèn công nghiệp. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Eto 150mm",
+    "category": "Eto",
+    "price": "800.000 ₫",
+    "specs": ["Khẩu độ: 150mm", "Chất liệu: Gang"],
+    "description": "Eto cơ khí, khẩu độ 150mm, phù hợp cho các công việc kẹp chặt chi tiết nhỏ. Sản phẩm đã qua sử dụng nhưng còn tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Eto 200mm",
+    "category": "Eto",
+    "price": "1.200.000 ₫",
+    "specs": ["Khẩu độ: 200mm", "Chất liệu: Gang"],
+    "description": "Eto cơ khí, khẩu độ 200mm, phù hợp cho các công việc kẹp chặt chi tiết vừa. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Eto 300mm",
+    "category": "Eto",
+    "price": "1.800.000 ₫",
+    "specs": ["Khẩu độ: 300mm", "Chất liệu: Gang"],
+    "description": "Eto cơ khí, khẩu độ 300mm, phù hợp cho các công việc kẹp chặt chi tiết lớn. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Cắt Plasma",
+    "category": "Máy Cắt",
+    "price": "8.000.000 ₫",
+    "specs": ["Công suất: 40A", "Độ dày cắt: 12mm"],
+    "description": "Máy cắt plasma công nghệ cao, hiệu suất cắt tốt và tiết kiệm năng lượng. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Cắt Laser",
+    "category": "Máy Cắt",
+    "price": "15.000.000 ₫",
+    "specs": ["Công suất: 1000W", "Độ dày cắt: 6mm"],
+    "description": "Máy cắt laser chính xác, phù hợp cho các công việc cắt tinh xảo. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Cắt Oxy",
+    "category": "Máy Cắt",
+    "price": "3.500.000 ₫",
+    "specs": ["Áp suất: 15 bar", "Độ dày cắt: 20mm"],
+    "description": "Máy cắt oxy-acetylene, phù hợp cho các công việc cắt kim loại dày. Sản phẩm đã qua sử dụng nhưng còn tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Khoan Bàn 16mm",
+    "category": "Máy Khoan Bàn",
+    "price": "2.500.000 ₫",
+    "specs": ["Đường kính: 16mm", "Công suất: 750W"],
+    "description": "Máy khoan bàn, đường kính 16mm, phù hợp cho các công việc khoan chính xác. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Khoan Bàn 20mm",
+    "category": "Máy Khoan Bàn",
+    "price": "3.200.000 ₫",
+    "specs": ["Đường kính: 20mm", "Công suất: 1000W"],
+    "description": "Máy khoan bàn, đường kính 20mm, phù hợp cho các công việc khoan công nghiệp. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Khoan Bàn 25mm",
+    "category": "Máy Khoan Bàn",
+    "price": "4.000.000 ₫",
+    "specs": ["Đường kính: 25mm", "Công suất: 1500W"],
+    "description": "Máy khoan bàn, đường kính 25mm, phù hợp cho các công việc khoan lớn. Sản phẩm đã qua sử dụng nhưng còn tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Mài Góc",
+    "category": "Máy Mài",
+    "price": "1.600.000 ₫",
+    "specs": ["Khối lượng: 12 kg", "Đường kính mặt đá: 20 cm"],
+    "description": "Máy mài góc đa năng, phù hợp cho các công việc mài và cắt. Sản phẩm đã qua sử dụng nhưng được tân trang lại sạch sẽ, đẹp.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Mài Bàn",
+    "category": "Máy Mài",
+    "price": "2.800.000 ₫",
+    "specs": ["Khối lượng: 25 kg", "Đường kính mặt đá: 30 cm"],
+    "description": "Máy mài bàn công nghiệp, phù hợp cho các công việc mài lớn. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  },
+  {
+    "name": "Máy Mài Đai",
+    "category": "Máy Mài",
+    "price": "3.500.000 ₫",
+    "specs": ["Khối lượng: 35 kg", "Chiều dài đai: 150 cm"],
+    "description": "Máy mài đai chính xác, phù hợp cho các công việc mài tinh xảo. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+    ]
+  }
+]

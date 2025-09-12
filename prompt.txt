@@ -1,0 +1,23 @@
+Remove the Số lượng option, all products' information are get from a json file with an array of products having this structure
+name
+price
+specs
+description
+category
+images: [urls]
+video: [url]
+
+
+
+Color Palette 🎨
+Primary Color: A deep, rich Teal. This color is sophisticated and modern, and can be used as a strong base.
+
+Hex Code: #006A71
+
+Secondary Color: A soft, muted Blush Pink. This provides a warm and gentle contrast to the deep teal, adding a touch of elegance.
+
+Hex Code: #E8C8C8
+
+Support Color: A dark Charcoal Gray. This is a versatile and grounding color that can be used for text or as a background for a more dramatic effect.
+
+Hex Code: #36454F
