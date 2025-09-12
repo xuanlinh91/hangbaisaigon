@@ -349,7 +349,6 @@ async function loadProducts() {
         });
         
         console.log('Products loaded successfully:', productData);
-        showNotification('Đã tải dữ liệu sản phẩm thành công!', 'success');
     } catch (error) {
         console.error('Error loading products:', error);
         showNotification('Lỗi khi tải dữ liệu sản phẩm. Vui lòng tải lại trang.', 'error');
@@ -500,6 +499,7 @@ function initializeProductModal() {
     const modal = document.getElementById('productModal');
     const closeBtn = document.querySelector('.modal-close');
     const contactBtn = document.querySelector('.contact-btn');
+    const callBtn = document.querySelector('.call-btn');
     const quantityInput = document.getElementById('quantity');
     const decreaseBtn = document.getElementById('decreaseQty');
     const increaseBtn = document.getElementById('increaseQty');
@@ -513,7 +513,7 @@ function initializeProductModal() {
         }
     });
     
-    // Contact button
+    // Contact button (Send message)
     contactBtn.addEventListener('click', function() {
         const productName = document.getElementById('modalProductName').textContent;
         const quantity = quantityInput.value;
@@ -523,6 +523,19 @@ function initializeProductModal() {
         const mailtoLink = `mailto:nguyenxuanthinh.7275@gmail.com?subject=${subject}&body=${body}`;
         
         window.location.href = mailtoLink;
+    });
+    
+    // Call button
+    callBtn.addEventListener('click', function() {
+        const phoneNumber = '0978788565';
+        const productName = document.getElementById('modalProductName').textContent;
+        
+        // Create a confirmation dialog
+        const confirmCall = confirm(`Bạn có muốn gọi điện đến số ${phoneNumber} để tư vấn về sản phẩm "${productName}"?`);
+        
+        if (confirmCall) {
+            window.location.href = `tel:${phoneNumber}`;
+        }
     });
     
     // Quantity controls

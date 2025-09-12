@@ -1355,6 +1355,12 @@ section {
     font-size: 1rem;
 }
 
+.contact-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
 .contact-btn {
     background: linear-gradient(135deg, #8B281B, #6B1F15);
     color: white;
@@ -1365,14 +1371,32 @@ section {
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
-    width: 100%;
-    margin-bottom: 2rem;
+    flex: 1;
 }
 
 .contact-btn:hover {
     background: linear-gradient(135deg, #6B1F15, #5A1A12);
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(139, 40, 27, 0.3);
+}
+
+.call-btn {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex: 1;
+}
+
+.call-btn:hover {
+    background: linear-gradient(135deg, #059669, #047857);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
 }
 
 .product-meta {
@@ -1428,6 +1452,10 @@ section {
     
     .product-details .product-price {
         font-size: 1.4rem;
+    }
+    
+    .contact-buttons {
+        flex-direction: column;
     }
 }
 
