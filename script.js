@@ -317,9 +317,6 @@ let allProducts = [];
 // Load products from JSON file
 async function loadProducts() {
     try {
-        // Show loading notification
-        showNotification('Đang tải dữ liệu sản phẩm...', 'info');
-        
         const response = await fetch('products.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -351,7 +348,6 @@ async function loadProducts() {
         console.log('Products loaded successfully:', productData);
     } catch (error) {
         console.error('Error loading products:', error);
-        showNotification('Lỗi khi tải dữ liệu sản phẩm. Vui lòng tải lại trang.', 'error');
     }
 }
 
@@ -415,7 +411,6 @@ function initializeProductNavigation() {
                 showProductGrid(categoryData);
             } else {
                 console.error('Category data not found for:', category);
-                showNotification('Không tìm thấy dữ liệu sản phẩm cho danh mục này.', 'error');
             }
         });
     });

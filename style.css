@@ -1381,7 +1381,7 @@ section {
 }
 
 .call-btn {
-    background: linear-gradient(135deg, #10b981, #059669);
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
     color: white;
     border: none;
     padding: 12px 30px;
@@ -1391,12 +1391,13 @@ section {
     cursor: pointer;
     transition: all 0.3s ease;
     flex: 1;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
 }
 
 .call-btn:hover {
-    background: linear-gradient(135deg, #059669, #047857);
+    background: linear-gradient(135deg, #1d4ed8, #1e40af);
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.4);
 }
 
 .product-meta {
