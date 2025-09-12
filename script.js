@@ -399,6 +399,27 @@ function initializeProductNavigation() {
         return;
     }
     
+    // Add click handlers to entire product cards
+    const productCards = document.querySelectorAll('.product-card[data-category]');
+    productCards.forEach(card => {
+        card.addEventListener('click', function(e) {
+            // Don't trigger if clicking on the button itself (let button handle it)
+            if (e.target.closest('.view-products-btn')) {
+                return;
+            }
+            
+            const category = this.dataset.category;
+            const categoryData = productData[category];
+            
+            if (categoryData) {
+                showProductGrid(categoryData);
+            } else {
+                console.error('Category data not found for:', category);
+            }
+        });
+    });
+    
+    // Keep button click handlers for explicit button clicks
     viewButtons.forEach(button => {
         button.addEventListener('click', function(e) {
             e.stopPropagation();
