@@ -1,20 +1,33 @@
 [
   {
-    "name": "Đe Rèn 50kg",
+    "name": "Đe thép Pháp từ năm 1963",
     "category": "Đe",
-    "price": "1.200.000 ₫",
-    "specs": ["Khối lượng: 50 kg", "Chất liệu: Thép carbon cao"],
-    "description": "Đe rèn chuyên nghiệp, trọng lượng 50kg, phù hợp cho các công việc rèn và sửa chữa kim loại. Sản phẩm đã qua sử dụng nhưng được tân trang lại sạch sẽ.",
+    "price": "7.000.000 ₫",
+    "specs": [
+      "Thông số kĩ thuật:",
+      "Khối lượng:   71 Kg",
+      "Chiều dài:    67 Cm",
+      "Chiều rộng:   13 Cm",
+      "Chiều cao:    20 Cm"
+    ],
+    "description": "Đe thép Pháp được gia công và sản xuất từ năm 1963. Sau bao nhiêu năm đe vẫn giữ được chất lượng\nHàng chất lượng với giá hạt rẻ.\nHàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983910549933_220b2a0bb1c19f77af471f45d360ab37-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983910628852_e43a7dc4a526efc5e3c29fee493e3500-473x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983910772590_f7d432977a03a89853d903a4c0b9144f-473x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983910957341_3ebe872a4398ff6e6a135af610e89dca-473x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983910547098_3f188d206bd13e751e7b2522b1cf5f90-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/de/de_phap/z5983911069524_f1dc5085e071427c1e582d5fb8e62e0a-473x1030.jpg"
     ]
   },
   {
     "name": "Đe Rèn 100kg",
     "category": "Đe",
     "price": "2.000.000 ₫",
-    "specs": ["Khối lượng: 100 kg", "Chất liệu: Thép carbon cao"],
+    "specs": [
+      "Khối lượng: 100 kg",
+      "Chất liệu: Thép carbon cao"
+    ],
     "description": "Đe rèn công nghiệp, trọng lượng 100kg, phù hợp cho các công việc rèn lớn. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -25,7 +38,10 @@
     "name": "Đe Rèn 200kg",
     "category": "Đe",
     "price": "3.500.000 ₫",
-    "specs": ["Khối lượng: 200 kg", "Chất liệu: Thép carbon cao"],
+    "specs": [
+      "Khối lượng: 200 kg",
+      "Chất liệu: Thép carbon cao"
+    ],
     "description": "Đe rèn lớn, trọng lượng 200kg, phù hợp cho các công việc rèn công nghiệp. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -33,32 +49,49 @@
     ]
   },
   {
-    "name": "Eto 150mm",
+    "name": "Ê tô Eron Nhật Bản",
     "category": "Eto",
-    "price": "800.000 ₫",
-    "specs": ["Khẩu độ: 150mm", "Chất liệu: Gang"],
-    "description": "Eto cơ khí, khẩu độ 150mm, phù hợp cho các công việc kẹp chặt chi tiết nhỏ. Sản phẩm đã qua sử dụng nhưng còn tốt.",
+    "price": "3.600.000 ₫",
+    "specs": [
+      "Thông số kĩ thuật:",
+      "Khối lượng:      31 kg",
+      "Ngàm mở lớn:  20 cm",
+      "Bề rộng ngàm:  15 cm"
+    ],
+    "description": "Eto  là một dụng cụ được sử dụng để kẹp và giữ chặt các chi tiết cần gia công như ống thép, thanh thép, sắt, gỗ…Công dụng: giúp cho quá trình gia công, sửa chữa, lắp ráp trở nên đơn giản, dễ dàng hơn.\nHàng chất lượng với giá hạt rẻ.\nHàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983929971647_374d3846a2d8553661af4d69b9554045-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983929972777_424070c96b07a53e30fe1f65cc7402fd-Copy-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983929974798_b3e34633eea15e411d9309b2288cb678-Copy-773x1030.jpg"
     ]
   },
   {
-    "name": "Eto 200mm",
+    "name": "Eto kẹp hàng chất lượng",
     "category": "Eto",
-    "price": "1.200.000 ₫",
-    "specs": ["Khẩu độ: 200mm", "Chất liệu: Gang"],
-    "description": "Eto cơ khí, khẩu độ 200mm, phù hợp cho các công việc kẹp chặt chi tiết vừa. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ.",
+    "price": "1.100.000 ₫",
+    "specs": [
+      "Thông số kĩ thuật:",
+      "Khối lượng:      17 kg",
+      "Ngàm mở lớn:  15 cm",
+      "Bề rộng ngàm:  11 cm",
+      "Chiều dài :         40cm"
+    ],
+    "description": "Eto  là một dụng cụ được sử dụng để kẹp và giữ chặt các chi tiết cần gia công như ống thép, thanh thép, sắt, gỗ…Công dụng: giúp cho quá trình gia công, sửa chữa, lắp ráp trở nên đơn giản, dễ dàng hơn.\nThông số kĩ thuật:\n– Khối lượng:      17kg\n– Ngàm mở lớn:  15cm\n– Bề rộng ngàm:  11cm\n– Chiều dài :         40cm\nHàng chất lượng với giá hạt rẻ.\nHàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eto_kep/z5983769243085_abe209b0a36cc9316ce854f1c1e3dee1.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983769568325_374bd86d3e7721b5af237f53b0e69ade-852x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983769607576_5919147c0d2f1e038160ee4a64a77399.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/eto/eron/z5983777236252_61a31a9b611e9ce787e7bc25c8d12ea8-721x1030.jpg"
     ]
   },
   {
     "name": "Eto 300mm",
     "category": "Eto",
     "price": "1.800.000 ₫",
-    "specs": ["Khẩu độ: 300mm", "Chất liệu: Gang"],
+    "specs": [
+      "Khẩu độ: 300mm",
+      "Chất liệu: Gang"
+    ],
     "description": "Eto cơ khí, khẩu độ 300mm, phù hợp cho các công việc kẹp chặt chi tiết lớn. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -66,21 +99,29 @@
     ]
   },
   {
-    "name": "Máy Cắt Plasma",
+    "name": "Máy Cắt Hitachi Nhật Bản – 110 v",
     "category": "Máy Cắt",
-    "price": "8.000.000 ₫",
-    "specs": ["Công suất: 40A", "Độ dày cắt: 12mm"],
-    "description": "Máy cắt plasma công nghệ cao, hiệu suất cắt tốt và tiết kiệm năng lượng. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
+    "price": "1.600.000 ₫",
+    "specs": [
+      "Công suất: 1500W",
+      "Đường kích mặt đá: 335mm",
+      "Điện: 110v"
+    ],
+    "description": "Máy Cắt Hitachi qua sử dụng đã đươc tân trang lại sạch sẽ , đẹp\nChi tiết máy móc còn nguyên\nMáy chạy êm ái bao khỏe\nNguồn điện là 110v\nHàng test thoải mái Hàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
-    ]
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_cat/untitled/z5983956846855_04295f8d5dfc2d0187dde1b96843b7ab-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_cat/untitled/z5983956849859_e6c104c4329109ab8d9db596cebe6eda-773x1030.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/OAtWUHfv5d4?si=RkGvufwQxYGDb9IS"
   },
   {
     "name": "Máy Cắt Laser",
     "category": "Máy Cắt",
     "price": "15.000.000 ₫",
-    "specs": ["Công suất: 1000W", "Độ dày cắt: 6mm"],
+    "specs": [
+      "Công suất: 1000W",
+      "Độ dày cắt: 6mm"
+    ],
     "description": "Máy cắt laser chính xác, phù hợp cho các công việc cắt tinh xảo. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -91,7 +132,10 @@
     "name": "Máy Cắt Oxy",
     "category": "Máy Cắt",
     "price": "3.500.000 ₫",
-    "specs": ["Áp suất: 15 bar", "Độ dày cắt: 20mm"],
+    "specs": [
+      "Áp suất: 15 bar",
+      "Độ dày cắt: 20mm"
+    ],
     "description": "Máy cắt oxy-acetylene, phù hợp cho các công việc cắt kim loại dày. Sản phẩm đã qua sử dụng nhưng còn tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -99,21 +143,30 @@
     ]
   },
   {
-    "name": "Máy Khoan Bàn 16mm",
+    "name": "Khoan bàn KIRA đời cao",
     "category": "Máy Khoan Bàn",
-    "price": "2.500.000 ₫",
-    "specs": ["Đường kính: 16mm", "Công suất: 750W"],
-    "description": "Máy khoan bàn, đường kính 16mm, phù hợp cho các công việc khoan chính xác. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ.",
+    "price": "6.000.000 ₫",
+    "specs": [
+      "Khối lượng: 70kg",
+      "Chiều cao: 1M",
+      "Chiều rộng: 27cm",
+      "Chiều sâu: 60cm",
+      "Đầu khoan: 13mm",
+      "Nguồn điện: 220v"
+    ],
+    "description": "Hàng đã qua sự dụng đã đươc tân trang lại sạch sẽ , đẹp\nHãng khoan KIRA đời cao\nĐã được thay nguồn điện 220 V\nChi tiết máy móc còn nguyên Máy chạy êm ái bao khỏe\nHàng test thoải mái\nBảo hành trong 6 tháng\nHàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_khoan_ban/untitled/z5983894635234_2f368641c6598676916eb2e62c0f3b8c-473x1030.jpg"
     ]
   },
   {
     "name": "Máy Khoan Bàn 20mm",
     "category": "Máy Khoan Bàn",
     "price": "3.200.000 ₫",
-    "specs": ["Đường kính: 20mm", "Công suất: 1000W"],
+    "specs": [
+      "Đường kính: 20mm",
+      "Công suất: 1000W"
+    ],
     "description": "Máy khoan bàn, đường kính 20mm, phù hợp cho các công việc khoan công nghiệp. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -124,7 +177,10 @@
     "name": "Máy Khoan Bàn 25mm",
     "category": "Máy Khoan Bàn",
     "price": "4.000.000 ₫",
-    "specs": ["Đường kính: 25mm", "Công suất: 1500W"],
+    "specs": [
+      "Đường kính: 25mm",
+      "Công suất: 1500W"
+    ],
     "description": "Máy khoan bàn, đường kính 25mm, phù hợp cho các công việc khoan lớn. Sản phẩm đã qua sử dụng nhưng còn tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -132,21 +188,28 @@
     ]
   },
   {
-    "name": "Máy Mài Góc",
+    "name": "Máy mài đá Nhật Bản",
     "category": "Máy Mài",
     "price": "1.600.000 ₫",
-    "specs": ["Khối lượng: 12 kg", "Đường kính mặt đá: 20 cm"],
-    "description": "Máy mài góc đa năng, phù hợp cho các công việc mài và cắt. Sản phẩm đã qua sử dụng nhưng được tân trang lại sạch sẽ, đẹp.",
+    "specs": [
+      "Khối lượng: 12 kg",
+      "Đường kính mặt đá: 20 cm"
+    ],
+    "description": " Máy mài đá qua sự dụng đã đươc tân trang lại sạch sẽ , đẹp\nChi tiết máy móc còn nguyên\nMáy chạy êm ái bao khỏe Hàng test thoải mái\nHàng đều được vệ sinh, kiểm tra và lựa chọn kĩ càng để giao tới cho khách hàng",
     "photos": [
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop"
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_mai/untitled/z5983951394028_da3248f415367b69fc1418990563b029-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_mai/untitled/z5983951401033_b3307702e1283235d9be8f7cf8c06863-773x1030.jpg",
+      "https://xuanlinh91.github.io/hangbaisaigon/product/may_mai/untitled/z5983951402629_3e0b42d1d0f624b4cb34a21f9be04244-773x1030.jpg"
     ]
   },
   {
     "name": "Máy Mài Bàn",
     "category": "Máy Mài",
     "price": "2.800.000 ₫",
-    "specs": ["Khối lượng: 25 kg", "Đường kính mặt đá: 30 cm"],
+    "specs": [
+      "Khối lượng: 25 kg",
+      "Đường kính mặt đá: 30 cm"
+    ],
     "description": "Máy mài bàn công nghiệp, phù hợp cho các công việc mài lớn. Sản phẩm đã qua sử dụng nhưng được kiểm tra kỹ lưỡng.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
@@ -157,7 +220,10 @@
     "name": "Máy Mài Đai",
     "category": "Máy Mài",
     "price": "3.500.000 ₫",
-    "specs": ["Khối lượng: 35 kg", "Chiều dài đai: 150 cm"],
+    "specs": [
+      "Khối lượng: 35 kg",
+      "Chiều dài đai: 150 cm"
+    ],
     "description": "Máy mài đai chính xác, phù hợp cho các công việc mài tinh xảo. Sản phẩm đã qua sử dụng nhưng được bảo dưỡng tốt.",
     "photos": [
       "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop",
