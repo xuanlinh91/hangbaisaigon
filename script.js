@@ -338,7 +338,7 @@ async function loadProducts() {
             const productWithId = {
                 ...product,
                 id: generateProductId(product.name, product.category),
-                image: product.photos && product.photos.length > 0 ? product.photos[0] : 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop',
+                image: product.photos && product.photos.length > 0 ? product.photos[0] : 'https://hangbaisaigon.com/product/unnamed.jpg',
                 tags: generateTags(product.name, product.category)
             };
             
